@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/uarikan" target="blank">
 Afsin</a></h1>
-<h3 align="center">A passionate Mobile App developer from UK &#127470;&#127475</h3>
+<h3 align="center">A passionate SQL & Python developer from UK &#127470;&#127475</h3>
 
 
 
