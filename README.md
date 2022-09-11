@@ -18,25 +18,15 @@ Afsin</a></h1>
 <div>
 
   ## 🛠️ &nbsp;My Tech Stacks
+  
+ </div>
 
-</div>
-
+<p align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+</p>
 
 -----------------------------------------
 Credit: [Afsin Arikan](https://github.com/uarikan)
 <br />
 Last edited on: 12/09/2022
-
-<!---
-
-- 👋 Hi, I’m Afsin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
-
-
---->
-
-<!---
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=uarikan&show_icons=true)
---->
